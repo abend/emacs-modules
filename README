@@ -1,0 +1,4 @@
+Some modules for emacs.
+
+* jabber.el: Add color changing for personal messages in MUC in jabber.el
+* nunit.el: Interactive functions for nunit run.
